@@ -2,8 +2,8 @@
   "packages": [
     {
       "name": "nRFMicrolikeBoards",
-      "maintainer": "pdcook",
-      "websiteURL": "https://github.com/pdcook/nRFMicro-Arduino-Core",
+      "maintainer": "daiaomori",
+      "websiteURL": "https://github.com/daiaomori/nRFMicro-Arduino-Core",
       "email": "",
       "help": {
         "online": ""
