@@ -10,11 +10,7 @@
       },
       "platforms": [
         {
-<<<<<<< HEAD
           "name": "nRFMicrolikeBoards",
-=======
-          "name": "nRFMicro-like-Boards",
->>>>>>> VgeOrge/installation_fixes
           "architecture": "nrf52",
           "version": "1.0.0",
           "category": "Contributed",
@@ -117,7 +113,7 @@
           "archiveFileName": "nRFMicro-Arduino-Core-1.0.2.tar.bz2",
           "checksum": "SHA-256:44d35927a60cb8a571a210ddeb9d2c5da4957ead5b143623685a8787fa1d04c9",
           "size": "20050973",
-          "boards": [{ "name": "nRFMicro" }, { "name": "SuperMini nRF52840" }, {"name": "nice!nano v2"}],
+          "boards": [{ "name": "nRFMicro" }, { "name": "SuperMini nRF52840" }, {"name": "nicenanov2"}],
           "toolsDependencies": [
                                       {
 
