@@ -10,7 +10,11 @@
       },
       "platforms": [
         {
+<<<<<<< HEAD
           "name": "nRFMicrolikeBoards",
+=======
+          "name": "nRFMicro-like-Boards",
+>>>>>>> VgeOrge/installation_fixes
           "architecture": "nrf52",
           "version": "1.0.0",
           "category": "Contributed",
